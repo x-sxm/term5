@@ -3,5 +3,3 @@ camoufox
 camoufox[geoip]
 browserforge
 hcaptcha_challenger
-python-dotenv
-
